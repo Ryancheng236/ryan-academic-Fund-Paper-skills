@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术写作"
+  short_description: "Revise instrument, optics, and CS academic writing."
+  default_prompt: "Use $academic-writing to draft or revise an instrument, optics, or computer-science proposal, paper section, or grant section from my materials."
